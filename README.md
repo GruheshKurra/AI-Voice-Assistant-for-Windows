@@ -43,8 +43,8 @@ This AI Assistant is a personal assistant tool that uses speech recognition to p
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/GruheshKurra/AI-Voice-Assistant-for-Windows.git
+    cd AI-Voice-Assistant-for-Windows
     ```
 
 2. **Install required libraries**:
