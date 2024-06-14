@@ -58,7 +58,7 @@ This AI Assistant is a personal assistant tool that uses speech recognition to p
 1. **Run the script**:
 
     ```bash
-    python <script_name>.py
+    python personal_assistant.py
     ```
 
 2. **Interact with the assistant**:
